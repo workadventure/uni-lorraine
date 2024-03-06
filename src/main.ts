@@ -23,7 +23,15 @@ WA.onInit().then(() => {
         imageSrc: root + '/arrows-to-center.svg',
         toolTip: "M'envoyer à l'accueil",
         callback: () => {
-            WA.nav.goToRoom("https://play.workadventu.re/@/universite-de-lorraine/pleiades/accueil#moveTo=accueil")
+            // If the player is already on the destination map, the page won't reload and the moveTo parameter won't be applied
+            // So we make a direct call to the moveTo feature instead using the API
+            if (currentMapName === "accueil") {
+                const x = 81 * 32;
+                const y = 29 * 32;
+                WA.player.moveTo(x, y);
+            } else {
+                WA.nav.goToRoom("https://play.workadventu.re/@/universite-de-lorraine/pleiades/accueil#moveTo=accueil")
+            }
         }
     });
     
