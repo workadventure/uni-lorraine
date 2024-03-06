@@ -655,28 +655,6 @@
                  "y":320
                 }, 
                 {
-                 "height":37.4545454545455,
-                 "id":21,
-                 "name":"exitToCampus",
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":160,
-                 "x":2528,
-                 "y":1434.54545454545
-                }, 
-                {
-                 "height":100.75,
-                 "id":22,
-                 "name":"exitToWorkshops",
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":160,
-                 "x":2528,
-                 "y":0
-                }, 
-                {
                  "height":640,
                  "id":24,
                  "name":"ChatAuditorium",
@@ -695,7 +673,7 @@
                 }],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
