@@ -653,6 +653,46 @@
                  "width":1280,
                  "x":288,
                  "y":448
+                }, 
+                {
+                 "height":0,
+                 "id":25,
+                 "name":"mapName",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"default",
+                         "type":"string",
+                         "value":"accueil"
+                        }, 
+                        {
+                         "name":"persist",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "rotation":0,
+                 "type":"variable",
+                 "visible":true,
+                 "width":0,
+                 "x":2608,
+                 "y":1409
+                }, 
+                {
+                 "height":32,
+                 "id":26,
+                 "name":"accueil",
+                 "properties":[
+                        {
+                         "name":"start",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":32,
+                 "x":2592,
+                 "y":928
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -802,8 +842,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":68,
- "nextobjectid":25,
+ "nextlayerid":69,
+ "nextobjectid":27,
  "orientation":"orthogonal",
  "properties":[
         {

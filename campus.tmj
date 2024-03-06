@@ -585,7 +585,30 @@
          "draworder":"topdown",
          "id":2,
          "name":"floorLayer",
-         "objects":[],
+         "objects":[
+                {
+                 "height":0,
+                 "id":20,
+                 "name":"mapName",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"default",
+                         "type":"string",
+                         "value":"campus"
+                        }, 
+                        {
+                         "name":"persist",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "rotation":0,
+                 "type":"variable",
+                 "visible":true,
+                 "width":0,
+                 "x":1280,
+                 "y":1114.66666666667
+                }],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
@@ -788,7 +811,7 @@
          "y":0
         }],
  "nextlayerid":67,
- "nextobjectid":20,
+ "nextobjectid":21,
  "orientation":"orthogonal",
  "properties":[
         {

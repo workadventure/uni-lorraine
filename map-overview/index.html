@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Map Overview</title>
+    <style>
+        body {
+            margin: 0;
+        }
+        #map-overview-container {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 100vw;
+        }
+        #map-overview {
+            width: 100%;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="map-overview-container">
+        <img id="map-overview" src="" />
+    </div>
+
+    <script src='panzoom.min.js'></script>
+    <script>
+        const url = new URL(window.location.toString())
+        const image = url.searchParams.get("image")
+        console.log("image", image)
+        // just grab a DOM element
+        var element = document.querySelector('#map-overview')
+
+        // Add the image
+        element.src = image
+
+        // And pass it to panzoom
+        panzoom(element, {
+            maxZoom: 5,
+            minZoom: 1,
+            initialX: 0,
+            initialY: 0,
+            initialZoom: 1,
+            zoomDoubleClickSpeed: 5,
+        })
+    </script>
+</body>
+
+</html>
