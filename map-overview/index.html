@@ -27,18 +27,17 @@
         <img id="map-overview" src="" />
     </div>
 
-    <script src='panzoom.min.js'></script>
+    <script src='https://unpkg.com/panzoom@9.4.0/dist/panzoom.min.js'></script>
     <script>
         const url = new URL(window.location.toString())
         const image = url.searchParams.get("image")
-        console.log("image", image)
         // just grab a DOM element
-        var element = document.querySelector('#map-overview')
+        let element = document.querySelector('#map-overview')
 
         // Add the image
         element.src = image
 
-        // And pass it to panzoom
+        // And pass it to panzoom: https://github.com/anvaka/panzoom
         panzoom(element, {
             maxZoom: 5,
             minZoom: 1,
