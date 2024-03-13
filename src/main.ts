@@ -58,7 +58,7 @@ WA.onInit().then(() => {
         callback: () => {
             WA.ui.modal.openModal({
                 title: "Plan",
-                src: 'https://workadventu.re',
+                src: root + '/Programme.pdf',
                 allowApi: false,
                 allow: "microphone; camera",
                 position: "center",
