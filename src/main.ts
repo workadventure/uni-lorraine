@@ -43,7 +43,7 @@ WA.onInit().then(() => {
         callback: () => {
             WA.ui.modal.openModal({
                 title: "Plan",
-                src: `${root}/map-overview/index.html?image=${currentMapName}-overview.png`,
+                src: `${root}/map-overview/index.html?image=${currentMapName}.png`,
                 allowApi: false,
                 allow: "microphone; camera",
                 position: "center",
