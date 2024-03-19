@@ -535,6 +535,23 @@
                  "width":2560,
                  "x":0,
                  "y":0
+                }, 
+                {
+                 "height":34,
+                 "id":22,
+                 "name":"derriere",
+                 "properties":[
+                        {
+                         "name":"start",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":33,
+                 "x":896.5,
+                 "y":64
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -707,8 +724,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":67,
- "nextobjectid":22,
+ "nextlayerid":68,
+ "nextobjectid":23,
  "orientation":"orthogonal",
  "properties":[
         {
