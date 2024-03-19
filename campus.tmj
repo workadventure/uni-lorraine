@@ -518,6 +518,23 @@
                  "width":0,
                  "x":1280,
                  "y":794.66666666667
+                }, 
+                {
+                 "height":1280,
+                 "id":21,
+                 "name":"ChatGeneral",
+                 "properties":[
+                        {
+                         "name":"chatName",
+                         "type":"string",
+                         "value":"G\u00e9n\u00e9ral"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":2560,
+                 "x":0,
+                 "y":0
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -691,7 +708,7 @@
          "y":0
         }],
  "nextlayerid":67,
- "nextobjectid":21,
+ "nextobjectid":22,
  "orientation":"orthogonal",
  "properties":[
         {
