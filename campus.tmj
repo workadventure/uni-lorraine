@@ -527,7 +527,7 @@
                         {
                          "name":"chatName",
                          "type":"string",
-                         "value":"G\u00e9n\u00e9ral"
+                         "value":"Campus"
                         }],
                  "rotation":0,
                  "type":"area",
