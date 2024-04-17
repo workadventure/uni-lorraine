@@ -14668,7 +14668,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "interieur-soip-chunk-1-1c7a63c1.png",
+      "image": "interieur-soip-chunk-1-b98d9bac.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14678,12 +14678,33 @@
       "tilecount": 256,
       "tileheight": 32,
       "tilewidth": 32,
-      "tiles": []
+      "tiles": [
+        {
+          "id": 1,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": true
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": true
+            }
+          ]
+        }
+      ]
     },
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "interieur-soip-chunk-2-1c7a63c1.png",
+      "image": "interieur-soip-chunk-2-b98d9bac.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14698,7 +14719,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "interieur-soip-chunk-3-1c7a63c1.png",
+      "image": "interieur-soip-chunk-3-b98d9bac.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14713,7 +14734,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "interieur-soip-chunk-4-1c7a63c1.png",
+      "image": "interieur-soip-chunk-4-b98d9bac.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14728,7 +14749,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "interieur-soip-chunk-5-1c7a63c1.png",
+      "image": "interieur-soip-chunk-5-b98d9bac.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14743,7 +14764,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "interieur-soip-chunk-6-1c7a63c1.png",
+      "image": "interieur-soip-chunk-6-b98d9bac.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14758,7 +14779,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "interieur-soip-chunk-7-1c7a63c1.png",
+      "image": "interieur-soip-chunk-7-b98d9bac.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14773,7 +14794,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "interieur-soip-chunk-8-1c7a63c1.png",
+      "image": "interieur-soip-chunk-8-b98d9bac.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14788,7 +14809,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "interieur-soip-chunk-9-1c7a63c1.png",
+      "image": "interieur-soip-chunk-9-b98d9bac.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14803,7 +14824,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "interieur-soip-chunk-10-1c7a63c1.png",
+      "image": "interieur-soip-chunk-10-b98d9bac.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14818,7 +14839,7 @@
     {
       "columns": 16,
       "firstgid": 2561,
-      "image": "interieur-soip-chunk-11-1c7a63c1.png",
+      "image": "interieur-soip-chunk-11-b98d9bac.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14833,7 +14854,7 @@
     {
       "columns": 16,
       "firstgid": 2817,
-      "image": "interieur-soip-chunk-12-1c7a63c1.png",
+      "image": "interieur-soip-chunk-12-b98d9bac.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14848,7 +14869,7 @@
     {
       "columns": 16,
       "firstgid": 3073,
-      "image": "interieur-soip-chunk-13-1c7a63c1.png",
+      "image": "interieur-soip-chunk-13-b98d9bac.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14863,7 +14884,7 @@
     {
       "columns": 16,
       "firstgid": 3329,
-      "image": "interieur-soip-chunk-14-1c7a63c1.png",
+      "image": "interieur-soip-chunk-14-b98d9bac.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14878,7 +14899,7 @@
     {
       "columns": 9,
       "firstgid": 3585,
-      "image": "interieur-soip-chunk-15-1c7a63c1.png",
+      "image": "interieur-soip-chunk-15-b98d9bac.png",
       "imageheight": 288,
       "imagewidth": 288,
       "margin": 0,
