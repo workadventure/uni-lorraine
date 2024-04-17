@@ -8658,11 +8658,11 @@
         2,
         2,
         2,
-        0,
-        0,
-        0,
-        0,
-        0,
+        2,
+        2,
+        2,
+        2,
+        2,
         2,
         2,
         2,
@@ -14668,7 +14668,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "interieur-soip-chunk-1-b98d9bac.png",
+      "image": "interieur-soip-chunk-1-f231d48a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14704,7 +14704,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "interieur-soip-chunk-2-b98d9bac.png",
+      "image": "interieur-soip-chunk-2-f231d48a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14719,7 +14719,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "interieur-soip-chunk-3-b98d9bac.png",
+      "image": "interieur-soip-chunk-3-f231d48a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14734,7 +14734,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "interieur-soip-chunk-4-b98d9bac.png",
+      "image": "interieur-soip-chunk-4-f231d48a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14749,7 +14749,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "interieur-soip-chunk-5-b98d9bac.png",
+      "image": "interieur-soip-chunk-5-f231d48a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14764,7 +14764,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "interieur-soip-chunk-6-b98d9bac.png",
+      "image": "interieur-soip-chunk-6-f231d48a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14779,7 +14779,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "interieur-soip-chunk-7-b98d9bac.png",
+      "image": "interieur-soip-chunk-7-f231d48a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14794,7 +14794,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "interieur-soip-chunk-8-b98d9bac.png",
+      "image": "interieur-soip-chunk-8-f231d48a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14809,7 +14809,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "interieur-soip-chunk-9-b98d9bac.png",
+      "image": "interieur-soip-chunk-9-f231d48a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14824,7 +14824,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "interieur-soip-chunk-10-b98d9bac.png",
+      "image": "interieur-soip-chunk-10-f231d48a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14839,7 +14839,7 @@
     {
       "columns": 16,
       "firstgid": 2561,
-      "image": "interieur-soip-chunk-11-b98d9bac.png",
+      "image": "interieur-soip-chunk-11-f231d48a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14854,7 +14854,7 @@
     {
       "columns": 16,
       "firstgid": 2817,
-      "image": "interieur-soip-chunk-12-b98d9bac.png",
+      "image": "interieur-soip-chunk-12-f231d48a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14869,7 +14869,7 @@
     {
       "columns": 16,
       "firstgid": 3073,
-      "image": "interieur-soip-chunk-13-b98d9bac.png",
+      "image": "interieur-soip-chunk-13-f231d48a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14884,7 +14884,7 @@
     {
       "columns": 16,
       "firstgid": 3329,
-      "image": "interieur-soip-chunk-14-b98d9bac.png",
+      "image": "interieur-soip-chunk-14-f231d48a.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14899,7 +14899,7 @@
     {
       "columns": 9,
       "firstgid": 3585,
-      "image": "interieur-soip-chunk-15-b98d9bac.png",
+      "image": "interieur-soip-chunk-15-f231d48a.png",
       "imageheight": 288,
       "imagewidth": 288,
       "margin": 0,
