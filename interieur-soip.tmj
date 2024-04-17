@@ -10975,7 +10975,7 @@
       ],
       "height": 48,
       "id": 5,
-      "name": "interactions",
+      "name": "start",
       "opacity": 1,
       "type": "tilelayer",
       "visible": true,
@@ -11000,7 +11000,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "interieur-soip-chunk-1-a96ecf7d.png",
+      "image": "interieur-soip-chunk-1-aeecceb8.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -11015,7 +11015,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "interieur-soip-chunk-2-a96ecf7d.png",
+      "image": "interieur-soip-chunk-2-aeecceb8.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -11030,7 +11030,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "interieur-soip-chunk-3-a96ecf7d.png",
+      "image": "interieur-soip-chunk-3-aeecceb8.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -11045,7 +11045,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "interieur-soip-chunk-4-a96ecf7d.png",
+      "image": "interieur-soip-chunk-4-aeecceb8.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -11060,7 +11060,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "interieur-soip-chunk-5-a96ecf7d.png",
+      "image": "interieur-soip-chunk-5-aeecceb8.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -11075,7 +11075,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "interieur-soip-chunk-6-a96ecf7d.png",
+      "image": "interieur-soip-chunk-6-aeecceb8.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -11090,7 +11090,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "interieur-soip-chunk-7-a96ecf7d.png",
+      "image": "interieur-soip-chunk-7-aeecceb8.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -11105,7 +11105,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "interieur-soip-chunk-8-a96ecf7d.png",
+      "image": "interieur-soip-chunk-8-aeecceb8.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -11120,7 +11120,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "interieur-soip-chunk-9-a96ecf7d.png",
+      "image": "interieur-soip-chunk-9-aeecceb8.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -11135,7 +11135,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "interieur-soip-chunk-10-a96ecf7d.png",
+      "image": "interieur-soip-chunk-10-aeecceb8.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -11150,7 +11150,7 @@
     {
       "columns": 16,
       "firstgid": 2561,
-      "image": "interieur-soip-chunk-11-a96ecf7d.png",
+      "image": "interieur-soip-chunk-11-aeecceb8.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -11165,7 +11165,7 @@
     {
       "columns": 16,
       "firstgid": 2817,
-      "image": "interieur-soip-chunk-12-a96ecf7d.png",
+      "image": "interieur-soip-chunk-12-aeecceb8.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -11180,7 +11180,7 @@
     {
       "columns": 16,
       "firstgid": 3073,
-      "image": "interieur-soip-chunk-13-a96ecf7d.png",
+      "image": "interieur-soip-chunk-13-aeecceb8.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -11195,7 +11195,7 @@
     {
       "columns": 16,
       "firstgid": 3329,
-      "image": "interieur-soip-chunk-14-a96ecf7d.png",
+      "image": "interieur-soip-chunk-14-aeecceb8.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -11210,7 +11210,7 @@
     {
       "columns": 9,
       "firstgid": 3585,
-      "image": "interieur-soip-chunk-15-a96ecf7d.png",
+      "image": "interieur-soip-chunk-15-aeecceb8.png",
       "imageheight": 288,
       "imagewidth": 288,
       "margin": 0,
