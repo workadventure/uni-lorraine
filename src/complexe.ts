@@ -15,6 +15,7 @@ WA.onInit().then(() => {
     } else {
         WA.controls.disableInviteButton();
         WA.controls.disableMapEditor();
+        //WA.controls.disableRoomList();
     }
     
     WA.ui.actionBar.addButton({
