@@ -26,7 +26,7 @@ WA.onInit().then(() => {
         callback: () => {
             WA.ui.modal.openModal({
                 title: "Guide utilisateur",
-                src: "https://workadventu.re/",
+                src: "https://u2l.fr/guideminicampus",
                 allowApi: false,
                 allow: "microphone; camera",
                 position: "center",
@@ -41,7 +41,7 @@ WA.onInit().then(() => {
         callback: () => {
             WA.ui.modal.openModal({
                 title: "Plan du complexe",
-                src: "https://workadventu.re/",
+                src: "https://u2l.fr/carteminicampus",
                 allowApi: false,
                 allow: "microphone; camera",
                 position: "center",
@@ -56,7 +56,7 @@ WA.onInit().then(() => {
         callback: () => {
             WA.ui.modal.openModal({
                 title: "Programme de la journée",
-                src: "https://workadventu.re/",
+                src: "https://u2l.fr/programmeminicampus",
                 allowApi: false,
                 allow: "microphone; camera",
                 position: "center",
