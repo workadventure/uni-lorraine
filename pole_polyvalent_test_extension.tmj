@@ -10054,8 +10054,6 @@
         0,
         0,
         0,
-        4762,
-        4762,
         0,
         0,
         0,
@@ -10065,6 +10063,8 @@
         0,
         0,
         0,
+        0,
+        0,
         4762,
         0,
         0,
@@ -10262,13 +10262,13 @@
         0,
         0,
         0,
-        4762,
-        4762,
+        0,
         0,
         0,
         0,
         0,
         0,
+        0,
         4762,
         0,
         0,
@@ -10532,8 +10532,6 @@
         0,
         0,
         0,
-        4762,
-        4762,
         0,
         0,
         0,
@@ -10541,6 +10539,8 @@
         0,
         0,
         0,
+        0,
+        0,
         4762,
         0,
         0,
@@ -10739,12 +10739,12 @@
         0,
         0,
         0,
-        4762,
-        4762,
+        0,
         0,
         0,
         0,
         0,
+        0,
         4762,
         0,
         0,
@@ -11012,8 +11012,8 @@
         0,
         0,
         0,
-        4762,
-        4762,
+        0,
+        0,
         0,
         0,
         0,
@@ -14314,7 +14314,7 @@
       "name": "collisions",
       "opacity": 1,
       "type": "tilelayer",
-      "visible": false,
+      "visible": true,
       "width": 68,
       "x": 0,
       "y": 0
@@ -47747,7 +47747,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "pole_polyvalent_test_extension-chunk-1-cf4df28f.png",
+      "image": "pole_polyvalent_test_extension-chunk-1-58bd8358.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -47762,7 +47762,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "pole_polyvalent_test_extension-chunk-2-cf4df28f.png",
+      "image": "pole_polyvalent_test_extension-chunk-2-58bd8358.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -47777,7 +47777,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "pole_polyvalent_test_extension-chunk-3-cf4df28f.png",
+      "image": "pole_polyvalent_test_extension-chunk-3-58bd8358.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -47792,7 +47792,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "pole_polyvalent_test_extension-chunk-4-cf4df28f.png",
+      "image": "pole_polyvalent_test_extension-chunk-4-58bd8358.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -47807,7 +47807,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "pole_polyvalent_test_extension-chunk-5-cf4df28f.png",
+      "image": "pole_polyvalent_test_extension-chunk-5-58bd8358.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -47822,7 +47822,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "pole_polyvalent_test_extension-chunk-6-cf4df28f.png",
+      "image": "pole_polyvalent_test_extension-chunk-6-58bd8358.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -47837,7 +47837,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "pole_polyvalent_test_extension-chunk-7-cf4df28f.png",
+      "image": "pole_polyvalent_test_extension-chunk-7-58bd8358.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -47852,7 +47852,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "pole_polyvalent_test_extension-chunk-8-cf4df28f.png",
+      "image": "pole_polyvalent_test_extension-chunk-8-58bd8358.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -47867,7 +47867,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "pole_polyvalent_test_extension-chunk-9-cf4df28f.png",
+      "image": "pole_polyvalent_test_extension-chunk-9-58bd8358.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -47882,7 +47882,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "pole_polyvalent_test_extension-chunk-10-cf4df28f.png",
+      "image": "pole_polyvalent_test_extension-chunk-10-58bd8358.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -47897,7 +47897,7 @@
     {
       "columns": 16,
       "firstgid": 2561,
-      "image": "pole_polyvalent_test_extension-chunk-11-cf4df28f.png",
+      "image": "pole_polyvalent_test_extension-chunk-11-58bd8358.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -47912,7 +47912,7 @@
     {
       "columns": 16,
       "firstgid": 2817,
-      "image": "pole_polyvalent_test_extension-chunk-12-cf4df28f.png",
+      "image": "pole_polyvalent_test_extension-chunk-12-58bd8358.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -47927,7 +47927,7 @@
     {
       "columns": 16,
       "firstgid": 3073,
-      "image": "pole_polyvalent_test_extension-chunk-13-cf4df28f.png",
+      "image": "pole_polyvalent_test_extension-chunk-13-58bd8358.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -47942,7 +47942,7 @@
     {
       "columns": 16,
       "firstgid": 3329,
-      "image": "pole_polyvalent_test_extension-chunk-14-cf4df28f.png",
+      "image": "pole_polyvalent_test_extension-chunk-14-58bd8358.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -47957,7 +47957,7 @@
     {
       "columns": 16,
       "firstgid": 3585,
-      "image": "pole_polyvalent_test_extension-chunk-15-cf4df28f.png",
+      "image": "pole_polyvalent_test_extension-chunk-15-58bd8358.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -47972,7 +47972,7 @@
     {
       "columns": 16,
       "firstgid": 3841,
-      "image": "pole_polyvalent_test_extension-chunk-16-cf4df28f.png",
+      "image": "pole_polyvalent_test_extension-chunk-16-58bd8358.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -47987,7 +47987,7 @@
     {
       "columns": 16,
       "firstgid": 4097,
-      "image": "pole_polyvalent_test_extension-chunk-17-cf4df28f.png",
+      "image": "pole_polyvalent_test_extension-chunk-17-58bd8358.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -48002,7 +48002,7 @@
     {
       "columns": 16,
       "firstgid": 4353,
-      "image": "pole_polyvalent_test_extension-chunk-18-cf4df28f.png",
+      "image": "pole_polyvalent_test_extension-chunk-18-58bd8358.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -48017,7 +48017,7 @@
     {
       "columns": 16,
       "firstgid": 4609,
-      "image": "pole_polyvalent_test_extension-chunk-19-cf4df28f.png",
+      "image": "pole_polyvalent_test_extension-chunk-19-58bd8358.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -48053,7 +48053,7 @@
     {
       "columns": 16,
       "firstgid": 4865,
-      "image": "pole_polyvalent_test_extension-chunk-20-cf4df28f.png",
+      "image": "pole_polyvalent_test_extension-chunk-20-58bd8358.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -48068,7 +48068,7 @@
     {
       "columns": 16,
       "firstgid": 5121,
-      "image": "pole_polyvalent_test_extension-chunk-21-cf4df28f.png",
+      "image": "pole_polyvalent_test_extension-chunk-21-58bd8358.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -48083,7 +48083,7 @@
     {
       "columns": 16,
       "firstgid": 5377,
-      "image": "pole_polyvalent_test_extension-chunk-22-cf4df28f.png",
+      "image": "pole_polyvalent_test_extension-chunk-22-58bd8358.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -48098,7 +48098,7 @@
     {
       "columns": 16,
       "firstgid": 5633,
-      "image": "pole_polyvalent_test_extension-chunk-23-cf4df28f.png",
+      "image": "pole_polyvalent_test_extension-chunk-23-58bd8358.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -48113,7 +48113,7 @@
     {
       "columns": 16,
       "firstgid": 5889,
-      "image": "pole_polyvalent_test_extension-chunk-24-cf4df28f.png",
+      "image": "pole_polyvalent_test_extension-chunk-24-58bd8358.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -48128,7 +48128,7 @@
     {
       "columns": 16,
       "firstgid": 6145,
-      "image": "pole_polyvalent_test_extension-chunk-25-cf4df28f.png",
+      "image": "pole_polyvalent_test_extension-chunk-25-58bd8358.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -48143,7 +48143,7 @@
     {
       "columns": 16,
       "firstgid": 6401,
-      "image": "pole_polyvalent_test_extension-chunk-26-cf4df28f.png",
+      "image": "pole_polyvalent_test_extension-chunk-26-58bd8358.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -48158,7 +48158,7 @@
     {
       "columns": 16,
       "firstgid": 6657,
-      "image": "pole_polyvalent_test_extension-chunk-27-cf4df28f.png",
+      "image": "pole_polyvalent_test_extension-chunk-27-58bd8358.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -48173,7 +48173,7 @@
     {
       "columns": 16,
       "firstgid": 6913,
-      "image": "pole_polyvalent_test_extension-chunk-28-cf4df28f.png",
+      "image": "pole_polyvalent_test_extension-chunk-28-58bd8358.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -48188,7 +48188,7 @@
     {
       "columns": 16,
       "firstgid": 7169,
-      "image": "pole_polyvalent_test_extension-chunk-29-cf4df28f.png",
+      "image": "pole_polyvalent_test_extension-chunk-29-58bd8358.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -48203,7 +48203,7 @@
     {
       "columns": 16,
       "firstgid": 7425,
-      "image": "pole_polyvalent_test_extension-chunk-30-cf4df28f.png",
+      "image": "pole_polyvalent_test_extension-chunk-30-58bd8358.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -48218,7 +48218,7 @@
     {
       "columns": 16,
       "firstgid": 7681,
-      "image": "pole_polyvalent_test_extension-chunk-31-cf4df28f.png",
+      "image": "pole_polyvalent_test_extension-chunk-31-58bd8358.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -48233,7 +48233,7 @@
     {
       "columns": 16,
       "firstgid": 7937,
-      "image": "pole_polyvalent_test_extension-chunk-32-cf4df28f.png",
+      "image": "pole_polyvalent_test_extension-chunk-32-58bd8358.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -48248,7 +48248,7 @@
     {
       "columns": 16,
       "firstgid": 8193,
-      "image": "pole_polyvalent_test_extension-chunk-33-cf4df28f.png",
+      "image": "pole_polyvalent_test_extension-chunk-33-58bd8358.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -48263,7 +48263,7 @@
     {
       "columns": 16,
       "firstgid": 8449,
-      "image": "pole_polyvalent_test_extension-chunk-34-cf4df28f.png",
+      "image": "pole_polyvalent_test_extension-chunk-34-58bd8358.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -48278,7 +48278,7 @@
     {
       "columns": 16,
       "firstgid": 8705,
-      "image": "pole_polyvalent_test_extension-chunk-35-cf4df28f.png",
+      "image": "pole_polyvalent_test_extension-chunk-35-58bd8358.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -48293,7 +48293,7 @@
     {
       "columns": 16,
       "firstgid": 8961,
-      "image": "pole_polyvalent_test_extension-chunk-36-cf4df28f.png",
+      "image": "pole_polyvalent_test_extension-chunk-36-58bd8358.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -48308,7 +48308,7 @@
     {
       "columns": 16,
       "firstgid": 9217,
-      "image": "pole_polyvalent_test_extension-chunk-37-cf4df28f.png",
+      "image": "pole_polyvalent_test_extension-chunk-37-58bd8358.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -48323,7 +48323,7 @@
     {
       "columns": 16,
       "firstgid": 9473,
-      "image": "pole_polyvalent_test_extension-chunk-38-cf4df28f.png",
+      "image": "pole_polyvalent_test_extension-chunk-38-58bd8358.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -48338,7 +48338,7 @@
     {
       "columns": 16,
       "firstgid": 9729,
-      "image": "pole_polyvalent_test_extension-chunk-39-cf4df28f.png",
+      "image": "pole_polyvalent_test_extension-chunk-39-58bd8358.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -48353,7 +48353,7 @@
     {
       "columns": 16,
       "firstgid": 9985,
-      "image": "pole_polyvalent_test_extension-chunk-40-cf4df28f.png",
+      "image": "pole_polyvalent_test_extension-chunk-40-58bd8358.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -48368,7 +48368,7 @@
     {
       "columns": 10,
       "firstgid": 10241,
-      "image": "pole_polyvalent_test_extension-chunk-41-cf4df28f.png",
+      "image": "pole_polyvalent_test_extension-chunk-41-58bd8358.png",
       "imageheight": 320,
       "imagewidth": 320,
       "margin": 0,
