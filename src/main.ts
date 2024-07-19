@@ -17,6 +17,30 @@ WA.onInit().then(() => {
         WA.player.setOutlineColor(0, 119, 141);
     }
 
+    // Code pour cacher les portes
+    WA.room.area.onEnter("atelier").subscribe(() => {
+        WA.room.hideLayer("murs/atelier")
+    })
+    WA.room.area.onLeave("atelier").subscribe(() => {
+        WA.room.showLayer("murs/atelier")
+    })
+
+    WA.room.area.onEnter("bureau").subscribe(() => {
+        WA.room.hideLayer("murs/bureau")
+    })
+    WA.room.area.onLeave("bureau").subscribe(() => {
+        WA.room.showLayer("murs/bureau")
+    })
+
+    WA.room.area.onEnter("reunionB").subscribe(() => {
+        WA.room.hideLayer("murs/reunionB")
+        WA.room.hideLayer("murs/reunionBDessus")
+    })
+    WA.room.area.onLeave("reunionB").subscribe(() => {
+        WA.room.showLayer("murs/reunionB")
+        WA.room.showLayer("murs/reunionBDessus")
+    })
+
     WA.ui.actionBar.addButton({
         id: 'move-btn',
         type: 'action',
