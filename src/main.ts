@@ -25,20 +25,36 @@ WA.onInit().then(() => {
         WA.room.showLayer("murs/atelier")
     })
 
-    WA.room.area.onEnter("bureau").subscribe(() => {
-        WA.room.hideLayer("murs/bureau")
+    WA.room.area.onEnter("bureauA").subscribe(() => {
+        WA.room.hideLayer("murs/bureauA")
     })
-    WA.room.area.onLeave("bureau").subscribe(() => {
-        WA.room.showLayer("murs/bureau")
+    WA.room.area.onLeave("bureauA").subscribe(() => {
+        WA.room.showLayer("murs/bureauA")
+    })
+
+      WA.room.area.onEnter("bureauB").subscribe(() => {
+        WA.room.hideLayer("murs/bureauB")
+    })
+    WA.room.area.onLeave("bureauB").subscribe(() => {
+        WA.room.showLayer("murs/bureauB")
     })
 
     WA.room.area.onEnter("reunionB").subscribe(() => {
         WA.room.hideLayer("murs/reunionB")
-        WA.room.hideLayer("murs/reunionBDessus")
+        WA.room.hideLayer("basMurs/basReunionB")
     })
     WA.room.area.onLeave("reunionB").subscribe(() => {
         WA.room.showLayer("murs/reunionB")
-        WA.room.showLayer("murs/reunionBDessus")
+        WA.room.showLayer("basMurs/basReunionB")
+    })
+
+     WA.room.area.onEnter("reunionA").subscribe(() => {
+        WA.room.hideLayer("murs/reunionA")
+        WA.room.hideLayer("basMurs/basReunionA")
+    })
+    WA.room.area.onLeave("reunionA").subscribe(() => {
+        WA.room.showLayer("murs/reunionA")
+        WA.room.showLayer("basMurs/basReunionA")
     })
 
     WA.ui.actionBar.addButton({
