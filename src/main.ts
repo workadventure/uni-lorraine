@@ -57,7 +57,23 @@ WA.onInit().then(() => {
         WA.room.showLayer("basMurs/basReunionA")
     })
 
-    WA.ui.actionBar.addButton({
+        WA.ui.actionBar.addButton({
+        id: 'help-btn',
+        type: 'action',
+        imageSrc: root + '/help.svg',
+        toolTip: "Guide utilisateur",
+        callback: () => {
+            WA.ui.modal.openModal({
+                title: "Guide utilisateur",
+                src: "https://u2l.fr/guideminicampus",
+                allowApi: false,
+                allow: "microphone; camera",
+                position: "center",
+            }, () => WA.ui.modal.closeModal())
+        }
+    });
+
+    /* WA.ui.actionBar.addButton({
         id: 'move-btn',
         type: 'action',
         imageSrc: root + '/arrows-to-center.svg',
@@ -73,7 +89,7 @@ WA.onInit().then(() => {
                 WA.nav.goToRoom("https://play.workadventu.re/@/universite-de-lorraine/pleiades/accueil#moveTo=accueil")
             }
         }
-    });
+    }); */
     
    /* WA.ui.actionBar.addButton({
         id: 'plan-btn',
@@ -89,7 +105,7 @@ WA.onInit().then(() => {
                 position: "center",
             }, () => WA.ui.modal.closeModal())
         }
-    });
+    }); */
    /* WA.ui.actionBar.addButton({
         id: 'program-btn',
         type: 'action',
