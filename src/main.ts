@@ -57,9 +57,7 @@ WA.onInit().then(() => {
         WA.room.showLayer("basMurs/basReunionA")
     })
 
-
-
-    /* WA.ui.actionBar.addButton({
+   /* WA.ui.actionBar.addButton({
         id: 'move-btn',
         type: 'action',
         imageSrc: root + '/arrows-to-center.svg',
@@ -75,9 +73,9 @@ WA.onInit().then(() => {
                 WA.nav.goToRoom("https://play.workadventu.re/@/universite-de-lorraine/pleiades/accueil#moveTo=accueil")
             }
         }
-    }); */
+    });
     
-   /* WA.ui.actionBar.addButton({
+    WA.ui.actionBar.addButton({
         id: 'plan-btn',
         type: 'action',
         imageSrc: root + '/map-plan.svg',
@@ -91,8 +89,8 @@ WA.onInit().then(() => {
                 position: "center",
             }, () => WA.ui.modal.closeModal())
         }
-    }); */
-   /* WA.ui.actionBar.addButton({
+    });
+    WA.ui.actionBar.addButton({
         id: 'program-btn',
         type: 'action',
         imageSrc: root + '/program-schedule.svg',
@@ -105,8 +103,9 @@ WA.onInit().then(() => {
                 allow: "microphone; camera",
                 position: "center",
             }, () => WA.ui.modal.closeModal())
-        } 
-    }); */
+        }
+    });
+    */
 
     // The line below bootstraps the Scripting API Extra library that adds a number of advanced properties/features to WorkAdventure
     bootstrapExtra().then(() => {
