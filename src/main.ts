@@ -57,21 +57,7 @@ WA.onInit().then(() => {
         WA.room.showLayer("basMurs/basReunionA")
     })
 
-        WA.ui.actionBar.addButton({
-        id: 'help-btn',
-        type: 'action',
-        imageSrc: root + '/help.svg',
-        toolTip: "Guide utilisateur",
-        callback: () => {
-            WA.ui.modal.openModal({
-                title: "Guide utilisateur",
-                src: "https://u2l.fr/guideminicampus",
-                allowApi: false,
-                allow: "microphone; camera",
-                position: "center",
-            }, () => WA.ui.modal.closeModal())
-        }
-    });
+
 
     /* WA.ui.actionBar.addButton({
         id: 'move-btn',
