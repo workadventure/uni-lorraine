@@ -11,7 +11,7 @@ WA.onInit().then(() => {
 
     const mapUrl = WA.room.mapURL
     const root = mapUrl.substring(0, mapUrl.lastIndexOf("/"))
-    let currentMapName //= "campus"
+    //let currentMapName = "campus"
 
     if(WA.player.tags.includes("admin")) {
         WA.player.setOutlineColor(0, 119, 141);
@@ -58,7 +58,7 @@ WA.onInit().then(() => {
     })
 
     // Bouton guide
-        WA.ui.actionBar.addButton({
+    WA.ui.actionBar.addButton({
         id: 'help-btn',
         type: 'action',
         imageSrc: root + '/help.svg',
@@ -125,11 +125,11 @@ WA.onInit().then(() => {
     */
 
     // The line below bootstraps the Scripting API Extra library that adds a number of advanced properties/features to WorkAdventure
-    bootstrapExtra().then(() => {
+    /*bootstrapExtra().then(() => {
         console.log('Scripting API Extra ready');
         // Update current map name
         currentMapName = WA.state.loadVariable('mapName') as string;
-    }).catch(e => console.error(e));
+    }).catch(e => console.error(e));*/
 
 }).catch(e => console.error(e));
 
