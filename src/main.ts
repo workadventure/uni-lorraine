@@ -11,7 +11,7 @@ WA.onInit().then(() => {
 
     const mapUrl = WA.room.mapURL
     const root = mapUrl.substring(0, mapUrl.lastIndexOf("/"))
-    //let currentMapName = "campus"
+    let currentMapName //= "campus"
 
     if(WA.player.tags.includes("admin")) {
         WA.player.setOutlineColor(0, 119, 141);
