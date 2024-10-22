@@ -11,7 +11,7 @@ WA.onInit().then(() => {
 
     const mapUrl = WA.room.mapURL
     const root = mapUrl.substring(0, mapUrl.lastIndexOf("/"))
-    let currentMapName = "campus"
+    //let currentMapName = "campus"
 
     if(WA.player.tags.includes("admin")) {
         WA.player.setOutlineColor(0, 119, 141);
@@ -56,6 +56,23 @@ WA.onInit().then(() => {
         WA.room.showLayer("murs/reunionA")
         WA.room.showLayer("basMurs/basReunionA")
     })
+
+    // Bouton guide
+        WA.ui.actionBar.addButton({
+        id: 'help-btn',
+        type: 'action',
+        imageSrc: root + '/help.svg',
+        toolTip: "Guide utilisateur",
+        callback: () => {
+            WA.ui.modal.openModal({
+                title: "Guide utilisateur",
+                src: "https://u2l.fr/guideminicampus",
+                allowApi: false,
+                allow: "microphone; camera",
+                position: "center",
+            }, () => WA.ui.modal.closeModal())
+        }
+    });
 
    /* WA.ui.actionBar.addButton({
         id: 'move-btn',
