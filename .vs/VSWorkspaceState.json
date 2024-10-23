@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\.github"
+    "\\.github",
+    "\\src"
   ],
-  "SelectedNode": "\\vite.config.ts",
+  "SelectedNode": "\\src\\main.ts",
   "PreviewInSolutionExplorer": false
 }

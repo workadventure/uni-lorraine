@@ -1,6 +1,6 @@
 /// <reference types="@workadventure/iframe-api-typings" />
 
-//import { bootstrapExtra } from "@workadventure/scripting-api-extra";
+import { bootstrapExtra } from "@workadventure/scripting-api-extra";
 
 console.log('Script started successfully');
 
@@ -125,10 +125,10 @@ WA.onInit().then(() => {
     */
 
     // The line below bootstraps the Scripting API Extra library that adds a number of advanced properties/features to WorkAdventure
-    /*bootstrapExtra().then(() => {
+    bootstrapExtra().then(() => {
         console.log('Scripting API Extra ready');
         // Update current map name
-        currentMapName = WA.state.loadVariable('mapName') as string;
+    /*  currentMapName = WA.state.loadVariable('mapName') as string;
     }).catch(e => console.error(e));*/
 
 }).catch(e => console.error(e));
