@@ -66,7 +66,7 @@ WA.onInit().then(() => {
         callback: () => {
             WA.ui.modal.openModal({
                 title: "Guide utilisateur",
-                src: "https://view.genially.com/65e9b8db0e37e60015e488bf/interactive-content-notice",
+                src: "https://u2l.fr/guidewa",
                 allowApi: false,
                 allow: "microphone; camera",
                 position: "center",
