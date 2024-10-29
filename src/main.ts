@@ -74,7 +74,7 @@ WA.onInit().then(() => {
         }
     });
 
-     // Bouton évaluation
+    /* // Bouton évaluation
     WA.ui.actionBar.addButton({
         id: 'help-btn',
         type: 'action',
@@ -89,7 +89,7 @@ WA.onInit().then(() => {
                 position: "center",
             }, () => WA.ui.modal.closeModal())
         }
-    });
+    });*/
 
    /* WA.ui.actionBar.addButton({
         id: 'move-btn',
