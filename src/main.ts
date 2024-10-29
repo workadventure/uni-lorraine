@@ -85,7 +85,7 @@ WA.onInit().then(() => {
         callback: () => {
             WA.ui.modal.openModal({
                 title: "Guide utilisateur",
-                src: "https://u2l.fr/guideminicampus",
+                src: "https://u2l.fr/evalsantewa",
                 allowApi: false,
                 allow: "microphone; camera",
                 position: "center",
