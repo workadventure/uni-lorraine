@@ -58,6 +58,7 @@ WA.onInit().then(() => {
     })
 
     // Bouton guide
+    console.log('Ajout du bouton Guide utilisateur');
     WA.ui.actionBar.addButton({
         id: 'help-btn',
         type: 'action',
@@ -74,9 +75,10 @@ WA.onInit().then(() => {
         }
     });
 
-    /*// Bouton évaluation
+    // Bouton évaluation
+    console.log('Ajout du bouton Évaluation');
     WA.ui.actionBar.addButton({
-        id: 'plan-btn',
+        id: 'evaluation-btn',
         type: 'action',
         imageSrc: root + '/star.svg',
         toolTip: "Évaluation",
@@ -89,7 +91,7 @@ WA.onInit().then(() => {
                 position: "center",
             }, () => WA.ui.modal.closeModal())
         }
-    });*/
+    });
 
    /* WA.ui.actionBar.addButton({
         id: 'move-btn',
