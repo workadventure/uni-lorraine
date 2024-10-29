@@ -66,7 +66,7 @@ WA.onInit().then(() => {
         callback: () => {
             WA.ui.modal.openModal({
                 title: "Guide utilisateur",
-                src: "https://u2l.fr/guidewa",
+                src: "https://u2l.fr/guideminicampus",
                 allowApi: false,
                 allow: "microphone; camera",
                 position: "center",
@@ -74,9 +74,9 @@ WA.onInit().then(() => {
         }
     });
 
-    /* // Bouton évaluation
+    // Bouton évaluation
     WA.ui.actionBar.addButton({
-        id: 'help-btn',
+        id: 'evaluation-btn',
         type: 'action',
         imageSrc: root + '/star.svg',
         toolTip: "Évaluation",
@@ -89,7 +89,7 @@ WA.onInit().then(() => {
                 position: "center",
             }, () => WA.ui.modal.closeModal())
         }
-    });*/
+    });
 
    /* WA.ui.actionBar.addButton({
         id: 'move-btn',
