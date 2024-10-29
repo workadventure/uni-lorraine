@@ -66,6 +66,23 @@ WA.onInit().then(() => {
         callback: () => {
             WA.ui.modal.openModal({
                 title: "Guide utilisateur",
+                src: "https://u2l.fr/guidewa",
+                allowApi: false,
+                allow: "microphone; camera",
+                position: "center",
+            }, () => WA.ui.modal.closeModal())
+        }
+    });
+
+     // Bouton évaluation
+    WA.ui.actionBar.addButton({
+        id: 'help-btn',
+        type: 'action',
+        imageSrc: root + '/star.svg',
+        toolTip: "Évaluation",
+        callback: () => {
+            WA.ui.modal.openModal({
+                title: "Guide utilisateur",
                 src: "https://u2l.fr/guideminicampus",
                 allowApi: false,
                 allow: "microphone; camera",
