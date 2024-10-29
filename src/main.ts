@@ -76,7 +76,7 @@ WA.onInit().then(() => {
 
     // Bouton évaluation
     WA.ui.actionBar.addButton({
-        id: 'evaluation-btn',
+        id: 'plan-btn',
         type: 'action',
         imageSrc: root + '/star.svg',
         toolTip: "Évaluation",
