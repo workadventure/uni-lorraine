@@ -115,6 +115,11 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"jitsiClosable",
+                 "type":"bool",
+                 "value":false
+                }, 
+                {
                  "name":"jitsiConfig",
                  "type":"string",
                  "value":"{ \"startWithAudioMuted\": true,\n   \n  \"toolbarButtons\": [\n    \"camera\",\n    \"closedcaptions\",\n    \"settings\",\n    \"microphone\",\n    \"raisehand\",\n    \"desktop\"\n  ] \n}"
@@ -133,11 +138,6 @@
                  "name":"jitsiWidth",
                  "type":"int",
                  "value":20
-                }, 
-                {
-                 "name":"openWebsiteClosable",
-                 "type":"bool",
-                 "value":false
                 }],
          "type":"tilelayer",
          "visible":true,
