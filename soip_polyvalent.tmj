@@ -1611,11 +1611,6 @@
                  "point":true,
                  "properties":[
                         {
-                         "name":"closeLayer",
-                         "type":"string",
-                         "value":"door\/reunionAFerm\u00e9e"
-                        }, 
-                        {
                          "name":"default",
                          "type":"bool",
                          "value":false
@@ -1623,12 +1618,7 @@
                         {
                          "name":"door",
                          "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"openLayer",
-                         "type":"string",
-                         "value":"door\/reunionAOuverte"
+                         "value":false
                         }, 
                         {
                          "name":"persist",
@@ -1709,11 +1699,6 @@
                  "point":true,
                  "properties":[
                         {
-                         "name":"closeLayer",
-                         "type":"string",
-                         "value":"door\/atelierFerm\u00e9e"
-                        }, 
-                        {
                          "name":"default",
                          "type":"bool",
                          "value":false
@@ -1721,12 +1706,7 @@
                         {
                          "name":"door",
                          "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"openLayer",
-                         "type":"string",
-                         "value":"door\/atelierOuverte"
+                         "value":false
                         }, 
                         {
                          "name":"persist",
@@ -3071,7 +3051,7 @@
                  "name":"atelierFerm\u00e9e",
                  "opacity":1,
                  "type":"tilelayer",
-                 "visible":false,
+                 "visible":true,
                  "width":68,
                  "x":0,
                  "y":0
@@ -3395,7 +3375,7 @@
                  "name":"reunionAFerm\u00e9e",
                  "opacity":1,
                  "type":"tilelayer",
-                 "visible":false,
+                 "visible":true,
                  "width":68,
                  "x":0,
                  "y":0
