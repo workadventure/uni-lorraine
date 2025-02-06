@@ -259,7 +259,7 @@
                          "value":"variablePorteAtelier"
                         }],
                  "type":"tilelayer",
-                 "visible":true,
+                 "visible":false,
                  "width":68,
                  "x":0,
                  "y":0
@@ -647,7 +647,7 @@
                          "value":"variablePorteReunionA"
                         }],
                  "type":"tilelayer",
-                 "visible":true,
+                 "visible":false,
                  "width":68,
                  "x":0,
                  "y":0
@@ -3103,7 +3103,7 @@
                  "name":"atelierFerm\u00e9e",
                  "opacity":1,
                  "type":"tilelayer",
-                 "visible":true,
+                 "visible":false,
                  "width":68,
                  "x":0,
                  "y":0
@@ -3427,7 +3427,7 @@
                  "name":"reunionAFerm\u00e9e",
                  "opacity":1,
                  "type":"tilelayer",
-                 "visible":true,
+                 "visible":false,
                  "width":68,
                  "x":0,
                  "y":0
