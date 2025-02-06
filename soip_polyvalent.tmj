@@ -246,12 +246,12 @@
                         {
                          "name":"autoClose",
                          "type":"bool",
-                         "value":true
+                         "value":false
                         }, 
                         {
                          "name":"autoOpen",
                          "type":"bool",
-                         "value":true
+                         "value":false
                         }, 
                         {
                          "name":"doorVariable",
@@ -259,7 +259,7 @@
                          "value":"variablePorteAtelier"
                         }],
                  "type":"tilelayer",
-                 "visible":false,
+                 "visible":true,
                  "width":68,
                  "x":0,
                  "y":0
@@ -634,12 +634,12 @@
                         {
                          "name":"autoClose",
                          "type":"bool",
-                         "value":true
+                         "value":false
                         }, 
                         {
                          "name":"autoOpen",
                          "type":"bool",
-                         "value":true
+                         "value":false
                         }, 
                         {
                          "name":"doorVariable",
@@ -647,7 +647,7 @@
                          "value":"variablePorteReunionA"
                         }],
                  "type":"tilelayer",
-                 "visible":false,
+                 "visible":true,
                  "width":68,
                  "x":0,
                  "y":0
