@@ -242,22 +242,6 @@
                  "id":21,
                  "name":"atelier",
                  "opacity":1,
-                 "properties":[
-                        {
-                         "name":"autoClose",
-                         "type":"bool",
-                         "value":false
-                        }, 
-                        {
-                         "name":"autoOpen",
-                         "type":"bool",
-                         "value":false
-                        }, 
-                        {
-                         "name":"doorVariable",
-                         "type":"string",
-                         "value":"variablePorteAtelier"
-                        }],
                  "type":"tilelayer",
                  "visible":true,
                  "width":68,
@@ -630,22 +614,6 @@
                  "id":38,
                  "name":"reunionA",
                  "opacity":1,
-                 "properties":[
-                        {
-                         "name":"autoClose",
-                         "type":"bool",
-                         "value":false
-                        }, 
-                        {
-                         "name":"autoOpen",
-                         "type":"bool",
-                         "value":false
-                        }, 
-                        {
-                         "name":"doorVariable",
-                         "type":"string",
-                         "value":"variablePorteReunionA"
-                        }],
                  "type":"tilelayer",
                  "visible":true,
                  "width":68,
